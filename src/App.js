@@ -1,7 +1,6 @@
 import React from "react";
 import Header from "./components/Header";
 import Card from "./components/Card";
-import data from "./data";
 import { useState } from "react";
 
 const App = () => {
